@@ -1,6 +1,9 @@
 # Urit
 
-TODO: Write a gem description
+This gem is in its initial sprint. It will be documented when ready for public
+release.
+
+***
 
 ## Installation
 
